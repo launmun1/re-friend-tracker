@@ -86,7 +86,7 @@ export class GuiModel {
 			{			"name": "Delete" 
 			},			{			"type": "cancelButton", 
 			"name": "Cancel",
-			"type": "deleteButton",			}, 
+			}, 
 			{			"name": "Ok" 
 			}		] 
 },
